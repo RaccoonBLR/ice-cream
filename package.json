@@ -1,21 +1,21 @@
 {
-  "name": "brain_breakers",
+  "name": "ice-cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://aspirantmpm.github.io/brain_breakers",
+  "homepage": "https://RaccoonBLR.github.io/ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /brain_breakers/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspirantmpm/brain_breakers.git"
+    "url": "git+https://github.com/RaccoonBLR/ice-cream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aspirantmpm/brain_breakers/issues"
+    "url": "https://github.com/RaccoonBLR/ice-cream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
